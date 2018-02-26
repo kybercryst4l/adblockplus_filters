@@ -1,4 +1,4 @@
-# adblockplus_filters
+# adblockplus filters
 A filter list for chrome extension adblock plus.
 
 ## prequisites
