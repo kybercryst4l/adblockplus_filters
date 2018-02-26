@@ -1,0 +1,9 @@
+[Adblock Plus 2.0]
+! Version: 201802261311
+! Title: remove adblock detection
+! Last modified: 
+! Expires: 4 days (update frequency)
+! Homepage: https://github.com/kybercryst4l/adblockplus
+!
+||20min.ch/JS/mtwch.js
+||meta.streamcloud.eu/scApp.js
