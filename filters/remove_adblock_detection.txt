@@ -7,6 +7,7 @@
 !
 ||20min.ch/JS/mtwch.js
 ||20min.ch/JS/ctwch.js
-@@securepubads.g.doubleclick.net/gampad/ads?*
+
+@@https://imasdk.googleapis.com/pal/sdkloader/pal.js
 
 ||meta.streamcloud.eu/scApp.js
