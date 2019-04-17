@@ -5,9 +5,12 @@
 ! Expires: 4 days (update frequency)
 ! Homepage: https://github.com/kybercryst4l/adblockplus
 !
+
+! 20min.ch
 ||20min.ch/JS/mtwch.js
 ||20min.ch/JS/ctwch.js
-
+! without this exception, videos won't work
 @@https://imasdk.googleapis.com/pal/sdkloader/pal.js
 
+! streamcloud.eu
 ||meta.streamcloud.eu/scApp.js
