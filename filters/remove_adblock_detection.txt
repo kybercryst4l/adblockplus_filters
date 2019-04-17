@@ -7,5 +7,6 @@
 !
 ||20min.ch/JS/mtwch.js
 ||20min.ch/JS/ctwch.js
+@@securepubads.g.doubleclick.net/gampad/ads?*
 
 ||meta.streamcloud.eu/scApp.js
