@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Version: 201802261311
+! Version: 202310261840
 ! Title: remove adblock detection
 ! Last modified: 
 ! Expires: 4 days (update frequency)
