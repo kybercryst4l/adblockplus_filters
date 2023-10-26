@@ -11,7 +11,7 @@
 ||20min.ch/JS/ctwch.js
 ! without this exception, videos won't work
 @@https://imasdk.googleapis.com/pal/sdkloader/pal.js
-||fundingchoicesmessages.google.com^$script,xmlhttprequest
+||fundingchoicesmessages.google.com^
 
 ! streamcloud.eu
 ||meta.streamcloud.eu/scApp.js
