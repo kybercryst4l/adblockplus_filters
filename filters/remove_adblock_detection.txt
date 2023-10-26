@@ -12,6 +12,5 @@
 ! without this exception, videos won't work
 @@https://imasdk.googleapis.com/pal/sdkloader/pal.js
 ||fundingchoicesmessages.google.com$important
-
 ! streamcloud.eu
 ||meta.streamcloud.eu/scApp.js
